@@ -63,7 +63,7 @@ declarative. Yay!
 ```bash
 $ git clone https://github.com/jbranchaud/react-logical
 $ cd react-logical
-$ yarn // or npm install
+$ yarn # or npm install
 ```
 
 ## Testing
